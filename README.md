@@ -1,2 +1,2 @@
 # omd
-Seminar 7. Python
+Homeworks for Python course
